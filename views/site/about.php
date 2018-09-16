@@ -16,7 +16,7 @@ $this->params['breadcrumbs'][] = $this->title;
     
     <p>Yeah!</p>
     
-    <p>Branch 1</p>
+    <p>Branch 2</p>
 
     <code><?= __FILE__ ?></code>
 </div>
