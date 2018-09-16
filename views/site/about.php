@@ -15,9 +15,8 @@ $this->params['breadcrumbs'][] = $this->title;
     </p>
     
     <p>Yeah!</p>
-    <p>Change 1, git add -A</p>
-    <p>Change 2, git add -A</p>
-    <p>Change 3, git add -A</p>
+    
+    <p>Branch 1</p>
 
     <code><?= __FILE__ ?></code>
 </div>
